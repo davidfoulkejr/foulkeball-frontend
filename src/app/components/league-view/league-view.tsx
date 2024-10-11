@@ -2,6 +2,8 @@ import * as React from "react";
 import { useApiContext } from "../../contexts/api-context";
 import "../../App.css";
 import "./league-view.css";
+import { Accordion } from "../library/Accordion/accordion";
+import { MatchupLine } from "../matchup-line";
 
 export const LeagueView: React.FC<{}> = () => {
 	const { getLeagueSchedule } = useApiContext();
@@ -13,9 +15,17 @@ export const LeagueView: React.FC<{}> = () => {
 	return (
 		<div className="league-schedule-container flex column gap-md">
 			{weeks.map((week: any) => (
-				<div key={week.label.split(" ").join("-")} className="week-card">
-					{week.label}
-				</div>
+				<Accordion
+					key={week.label.split(' ').join('-')}
+					title={week.label}
+					content={
+						<div>
+							{week.games.map((game: {away: string; home: string;}) => (
+								<MatchupLine {...game} />
+							))}
+						</div>
+					}
+				/>
 			))}
 		</div>
 	);
