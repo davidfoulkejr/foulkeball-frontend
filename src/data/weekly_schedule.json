@@ -1,0 +1,1180 @@
+[
+    {
+        "label": "Week 1",
+        "games": [
+            {
+                "away_team": "ARI",
+                "home_team": "BUF"
+            },
+            {
+                "away_team": "BAL",
+                "home_team": "KC"
+            },
+            {
+                "away_team": "CAR",
+                "home_team": "NO"
+            },
+            {
+                "away_team": "DAL",
+                "home_team": "CLE"
+            },
+            {
+                "away_team": "DEN",
+                "home_team": "SEA"
+            },
+            {
+                "away_team": "GB",
+                "home_team": "PHI"
+            },
+            {
+                "away_team": "HOU",
+                "home_team": "IND"
+            },
+            {
+                "away_team": "JAX",
+                "home_team": "MIA"
+            },
+            {
+                "away_team": "LV",
+                "home_team": "LAC"
+            },
+            {
+                "away_team": "LAR",
+                "home_team": "DET"
+            },
+            {
+                "away_team": "MIN",
+                "home_team": "NYG"
+            },
+            {
+                "away_team": "NE",
+                "home_team": "CIN"
+            },
+            {
+                "away_team": "NYJ",
+                "home_team": "SF"
+            },
+            {
+                "away_team": "PIT",
+                "home_team": "ATL"
+            },
+            {
+                "away_team": "TEN",
+                "home_team": "CHI"
+            },
+            {
+                "away_team": "WSH",
+                "home_team": "TB"
+            }
+        ]
+    },
+    {
+        "label": "Week 2",
+        "games": [
+            {
+                "away_team": "ATL",
+                "home_team": "PHI"
+            },
+            {
+                "away_team": "BUF",
+                "home_team": "MIA"
+            },
+            {
+                "away_team": "CHI",
+                "home_team": "HOU"
+            },
+            {
+                "away_team": "CIN",
+                "home_team": "KC"
+            },
+            {
+                "away_team": "CLE",
+                "home_team": "JAX"
+            },
+            {
+                "away_team": "IND",
+                "home_team": "GB"
+            },
+            {
+                "away_team": "LV",
+                "home_team": "BAL"
+            },
+            {
+                "away_team": "LAR",
+                "home_team": "ARI"
+            },
+            {
+                "away_team": "LAC",
+                "home_team": "CAR"
+            },
+            {
+                "away_team": "NO",
+                "home_team": "DAL"
+            },
+            {
+                "away_team": "NYG",
+                "home_team": "WSH"
+            },
+            {
+                "away_team": "NYJ",
+                "home_team": "TEN"
+            },
+            {
+                "away_team": "PIT",
+                "home_team": "DEN"
+            },
+            {
+                "away_team": "SF",
+                "home_team": "MIN"
+            },
+            {
+                "away_team": "SEA",
+                "home_team": "NE"
+            },
+            {
+                "away_team": "TB",
+                "home_team": "DET"
+            }
+        ]
+    },
+    {
+        "label": "Week 3",
+        "games": [
+            {
+                "away_team": "BAL",
+                "home_team": "DAL"
+            },
+            {
+                "away_team": "CAR",
+                "home_team": "LV"
+            },
+            {
+                "away_team": "CHI",
+                "home_team": "IND"
+            },
+            {
+                "away_team": "DEN",
+                "home_team": "TB"
+            },
+            {
+                "away_team": "DET",
+                "home_team": "ARI"
+            },
+            {
+                "away_team": "GB",
+                "home_team": "TEN"
+            },
+            {
+                "away_team": "HOU",
+                "home_team": "MIN"
+            },
+            {
+                "away_team": "JAX",
+                "home_team": "BUF"
+            },
+            {
+                "away_team": "KC",
+                "home_team": "ATL"
+            },
+            {
+                "away_team": "LAC",
+                "home_team": "PIT"
+            },
+            {
+                "away_team": "MIA",
+                "home_team": "SEA"
+            },
+            {
+                "away_team": "NE",
+                "home_team": "NYJ"
+            },
+            {
+                "away_team": "NYG",
+                "home_team": "CLE"
+            },
+            {
+                "away_team": "PHI",
+                "home_team": "NO"
+            },
+            {
+                "away_team": "SF",
+                "home_team": "LAR"
+            },
+            {
+                "away_team": "WSH",
+                "home_team": "CIN"
+            }
+        ]
+    },
+    {
+        "label": "Week 4",
+        "games": [
+            {
+                "away_team": "BUF",
+                "home_team": "BAL"
+            },
+            {
+                "away_team": "CIN",
+                "home_team": "CAR"
+            },
+            {
+                "away_team": "CLE",
+                "home_team": "LV"
+            },
+            {
+                "away_team": "DAL",
+                "home_team": "NYG"
+            },
+            {
+                "away_team": "DEN",
+                "home_team": "NYJ"
+            },
+            {
+                "away_team": "JAX",
+                "home_team": "HOU"
+            },
+            {
+                "away_team": "KC",
+                "home_team": "LAC"
+            },
+            {
+                "away_team": "LAR",
+                "home_team": "CHI"
+            },
+            {
+                "away_team": "MIN",
+                "home_team": "GB"
+            },
+            {
+                "away_team": "NE",
+                "home_team": "SF"
+            },
+            {
+                "away_team": "NO",
+                "home_team": "ATL"
+            },
+            {
+                "away_team": "PHI",
+                "home_team": "TB"
+            },
+            {
+                "away_team": "PIT",
+                "home_team": "IND"
+            },
+            {
+                "away_team": "SEA",
+                "home_team": "DET"
+            },
+            {
+                "away_team": "TEN",
+                "home_team": "MIA"
+            },
+            {
+                "away_team": "WSH",
+                "home_team": "ARI"
+            }
+        ]
+    },
+    {
+        "label": "Week 5",
+        "games": [
+            {
+                "away_team": "ARI",
+                "home_team": "SF"
+            },
+            {
+                "away_team": "BAL",
+                "home_team": "CIN"
+            },
+            {
+                "away_team": "BUF",
+                "home_team": "HOU"
+            },
+            {
+                "away_team": "CAR",
+                "home_team": "CHI"
+            },
+            {
+                "away_team": "CLE",
+                "home_team": "WSH"
+            },
+            {
+                "away_team": "DAL",
+                "home_team": "PIT"
+            },
+            {
+                "away_team": "GB",
+                "home_team": "LAR"
+            },
+            {
+                "away_team": "IND",
+                "home_team": "JAX"
+            },
+            {
+                "away_team": "LV",
+                "home_team": "DEN"
+            },
+            {
+                "away_team": "MIA",
+                "home_team": "NE"
+            },
+            {
+                "away_team": "NO",
+                "home_team": "KC"
+            },
+            {
+                "away_team": "NYG",
+                "home_team": "SEA"
+            },
+            {
+                "away_team": "NYJ",
+                "home_team": "MIN"
+            },
+            {
+                "away_team": "TB",
+                "home_team": "ATL"
+            }
+        ]
+    },
+    {
+        "label": "Week 6",
+        "games": [
+            {
+                "away_team": "ARI",
+                "home_team": "GB"
+            },
+            {
+                "away_team": "ATL",
+                "home_team": "CAR"
+            },
+            {
+                "away_team": "BUF",
+                "home_team": "NYJ"
+            },
+            {
+                "away_team": "CIN",
+                "home_team": "NYG"
+            },
+            {
+                "away_team": "CLE",
+                "home_team": "PHI"
+            },
+            {
+                "away_team": "DET",
+                "home_team": "DAL"
+            },
+            {
+                "away_team": "HOU",
+                "home_team": "NE"
+            },
+            {
+                "away_team": "IND",
+                "home_team": "TEN"
+            },
+            {
+                "away_team": "JAX",
+                "home_team": "CHI"
+            },
+            {
+                "away_team": "LAC",
+                "home_team": "DEN"
+            },
+            {
+                "away_team": "PIT",
+                "home_team": "LV"
+            },
+            {
+                "away_team": "SF",
+                "home_team": "SEA"
+            },
+            {
+                "away_team": "TB",
+                "home_team": "NO"
+            },
+            {
+                "away_team": "WSH",
+                "home_team": "BAL"
+            }
+        ]
+    },
+    {
+        "label": "Week 7",
+        "games": [
+            {
+                "away_team": "BAL",
+                "home_team": "TB"
+            },
+            {
+                "away_team": "CAR",
+                "home_team": "WSH"
+            },
+            {
+                "away_team": "CIN",
+                "home_team": "CLE"
+            },
+            {
+                "away_team": "DEN",
+                "home_team": "NO"
+            },
+            {
+                "away_team": "DET",
+                "home_team": "MIN"
+            },
+            {
+                "away_team": "HOU",
+                "home_team": "GB"
+            },
+            {
+                "away_team": "KC",
+                "home_team": "SF"
+            },
+            {
+                "away_team": "LV",
+                "home_team": "LAR"
+            },
+            {
+                "away_team": "LAC",
+                "home_team": "ARI"
+            },
+            {
+                "away_team": "MIA",
+                "home_team": "IND"
+            },
+            {
+                "away_team": "NE",
+                "home_team": "JAX"
+            },
+            {
+                "away_team": "NYJ",
+                "home_team": "PIT"
+            },
+            {
+                "away_team": "PHI",
+                "home_team": "NYG"
+            },
+            {
+                "away_team": "SEA",
+                "home_team": "ATL"
+            },
+            {
+                "away_team": "TEN",
+                "home_team": "BUF"
+            }
+        ]
+    },
+    {
+        "label": "Week 8",
+        "games": [
+            {
+                "away_team": "ARI",
+                "home_team": "MIA"
+            },
+            {
+                "away_team": "ATL",
+                "home_team": "TB"
+            },
+            {
+                "away_team": "BAL",
+                "home_team": "CLE"
+            },
+            {
+                "away_team": "BUF",
+                "home_team": "SEA"
+            },
+            {
+                "away_team": "CAR",
+                "home_team": "DEN"
+            },
+            {
+                "away_team": "CHI",
+                "home_team": "WSH"
+            },
+            {
+                "away_team": "DAL",
+                "home_team": "SF"
+            },
+            {
+                "away_team": "GB",
+                "home_team": "JAX"
+            },
+            {
+                "away_team": "IND",
+                "home_team": "HOU"
+            },
+            {
+                "away_team": "KC",
+                "home_team": "LV"
+            },
+            {
+                "away_team": "MIN",
+                "home_team": "LAR"
+            },
+            {
+                "away_team": "NO",
+                "home_team": "LAC"
+            },
+            {
+                "away_team": "NYG",
+                "home_team": "PIT"
+            },
+            {
+                "away_team": "NYJ",
+                "home_team": "NE"
+            },
+            {
+                "away_team": "PHI",
+                "home_team": "CIN"
+            },
+            {
+                "away_team": "TEN",
+                "home_team": "DET"
+            }
+        ]
+    },
+    {
+        "label": "Week 9",
+        "games": [
+            {
+                "away_team": "CHI",
+                "home_team": "ARI"
+            },
+            {
+                "away_team": "DAL",
+                "home_team": "ATL"
+            },
+            {
+                "away_team": "DEN",
+                "home_team": "BAL"
+            },
+            {
+                "away_team": "DET",
+                "home_team": "GB"
+            },
+            {
+                "away_team": "HOU",
+                "home_team": "NYJ"
+            },
+            {
+                "away_team": "IND",
+                "home_team": "MIN"
+            },
+            {
+                "away_team": "JAX",
+                "home_team": "PHI"
+            },
+            {
+                "away_team": "LV",
+                "home_team": "CIN"
+            },
+            {
+                "away_team": "LAR",
+                "home_team": "SEA"
+            },
+            {
+                "away_team": "LAC",
+                "home_team": "CLE"
+            },
+            {
+                "away_team": "MIA",
+                "home_team": "BUF"
+            },
+            {
+                "away_team": "NE",
+                "home_team": "TEN"
+            },
+            {
+                "away_team": "NO",
+                "home_team": "CAR"
+            },
+            {
+                "away_team": "TB",
+                "home_team": "KC"
+            },
+            {
+                "away_team": "WSH",
+                "home_team": "NYG"
+            }
+        ]
+    },
+    {
+        "label": "Week 10",
+        "games": [
+            {
+                "away_team": "ATL",
+                "home_team": "NO"
+            },
+            {
+                "away_team": "BUF",
+                "home_team": "IND"
+            },
+            {
+                "away_team": "CIN",
+                "home_team": "BAL"
+            },
+            {
+                "away_team": "DEN",
+                "home_team": "KC"
+            },
+            {
+                "away_team": "DET",
+                "home_team": "HOU"
+            },
+            {
+                "away_team": "MIA",
+                "home_team": "LAR"
+            },
+            {
+                "away_team": "MIN",
+                "home_team": "JAX"
+            },
+            {
+                "away_team": "NE",
+                "home_team": "CHI"
+            },
+            {
+                "away_team": "NYG",
+                "home_team": "CAR"
+            },
+            {
+                "away_team": "NYJ",
+                "home_team": "ARI"
+            },
+            {
+                "away_team": "PHI",
+                "home_team": "DAL"
+            },
+            {
+                "away_team": "PIT",
+                "home_team": "WSH"
+            },
+            {
+                "away_team": "SF",
+                "home_team": "TB"
+            },
+            {
+                "away_team": "TEN",
+                "home_team": "LAC"
+            }
+        ]
+    },
+    {
+        "label": "Week 11",
+        "games": [
+            {
+                "away_team": "ATL",
+                "home_team": "DEN"
+            },
+            {
+                "away_team": "BAL",
+                "home_team": "PIT"
+            },
+            {
+                "away_team": "CIN",
+                "home_team": "LAC"
+            },
+            {
+                "away_team": "CLE",
+                "home_team": "NO"
+            },
+            {
+                "away_team": "GB",
+                "home_team": "CHI"
+            },
+            {
+                "away_team": "HOU",
+                "home_team": "DAL"
+            },
+            {
+                "away_team": "IND",
+                "home_team": "NYJ"
+            },
+            {
+                "away_team": "JAX",
+                "home_team": "DET"
+            },
+            {
+                "away_team": "KC",
+                "home_team": "BUF"
+            },
+            {
+                "away_team": "LV",
+                "home_team": "MIA"
+            },
+            {
+                "away_team": "LAR",
+                "home_team": "NE"
+            },
+            {
+                "away_team": "MIN",
+                "home_team": "TEN"
+            },
+            {
+                "away_team": "SEA",
+                "home_team": "SF"
+            },
+            {
+                "away_team": "WSH",
+                "home_team": "PHI"
+            }
+        ]
+    },
+    {
+        "label": "Week 12",
+        "games": [
+            {
+                "away_team": "ARI",
+                "home_team": "SEA"
+            },
+            {
+                "away_team": "BAL",
+                "home_team": "LAC"
+            },
+            {
+                "away_team": "DAL",
+                "home_team": "WSH"
+            },
+            {
+                "away_team": "DEN",
+                "home_team": "LV"
+            },
+            {
+                "away_team": "DET",
+                "home_team": "IND"
+            },
+            {
+                "away_team": "KC",
+                "home_team": "CAR"
+            },
+            {
+                "away_team": "MIN",
+                "home_team": "CHI"
+            },
+            {
+                "away_team": "NE",
+                "home_team": "MIA"
+            },
+            {
+                "away_team": "PHI",
+                "home_team": "LAR"
+            },
+            {
+                "away_team": "PIT",
+                "home_team": "CLE"
+            },
+            {
+                "away_team": "SF",
+                "home_team": "GB"
+            },
+            {
+                "away_team": "TB",
+                "home_team": "NYG"
+            },
+            {
+                "away_team": "TEN",
+                "home_team": "HOU"
+            }
+        ]
+    },
+    {
+        "label": "Week 13",
+        "games": [
+            {
+                "away_team": "ARI",
+                "home_team": "MIN"
+            },
+            {
+                "away_team": "CHI",
+                "home_team": "DET"
+            },
+            {
+                "away_team": "CLE",
+                "home_team": "DEN"
+            },
+            {
+                "away_team": "HOU",
+                "home_team": "JAX"
+            },
+            {
+                "away_team": "IND",
+                "home_team": "NE"
+            },
+            {
+                "away_team": "LV",
+                "home_team": "KC"
+            },
+            {
+                "away_team": "LAR",
+                "home_team": "NO"
+            },
+            {
+                "away_team": "LAC",
+                "home_team": "ATL"
+            },
+            {
+                "away_team": "MIA",
+                "home_team": "GB"
+            },
+            {
+                "away_team": "NYG",
+                "home_team": "DAL"
+            },
+            {
+                "away_team": "PHI",
+                "home_team": "BAL"
+            },
+            {
+                "away_team": "PIT",
+                "home_team": "CIN"
+            },
+            {
+                "away_team": "SF",
+                "home_team": "BUF"
+            },
+            {
+                "away_team": "SEA",
+                "home_team": "NYJ"
+            },
+            {
+                "away_team": "TB",
+                "home_team": "CAR"
+            },
+            {
+                "away_team": "TEN",
+                "home_team": "WSH"
+            }
+        ]
+    },
+    {
+        "label": "Week 14",
+        "games": [
+            {
+                "away_team": "ATL",
+                "home_team": "MIN"
+            },
+            {
+                "away_team": "BUF",
+                "home_team": "LAR"
+            },
+            {
+                "away_team": "CAR",
+                "home_team": "PHI"
+            },
+            {
+                "away_team": "CHI",
+                "home_team": "SF"
+            },
+            {
+                "away_team": "CIN",
+                "home_team": "DAL"
+            },
+            {
+                "away_team": "CLE",
+                "home_team": "PIT"
+            },
+            {
+                "away_team": "GB",
+                "home_team": "DET"
+            },
+            {
+                "away_team": "JAX",
+                "home_team": "TEN"
+            },
+            {
+                "away_team": "LV",
+                "home_team": "TB"
+            },
+            {
+                "away_team": "LAC",
+                "home_team": "KC"
+            },
+            {
+                "away_team": "NO",
+                "home_team": "NYG"
+            },
+            {
+                "away_team": "NYJ",
+                "home_team": "MIA"
+            },
+            {
+                "away_team": "SEA",
+                "home_team": "ARI"
+            }
+        ]
+    },
+    {
+        "label": "Week 15",
+        "games": [
+            {
+                "away_team": "ATL",
+                "home_team": "LV"
+            },
+            {
+                "away_team": "BAL",
+                "home_team": "NYG"
+            },
+            {
+                "away_team": "BUF",
+                "home_team": "DET"
+            },
+            {
+                "away_team": "CHI",
+                "home_team": "MIN"
+            },
+            {
+                "away_team": "CIN",
+                "home_team": "TEN"
+            },
+            {
+                "away_team": "DAL",
+                "home_team": "CAR"
+            },
+            {
+                "away_team": "GB",
+                "home_team": "SEA"
+            },
+            {
+                "away_team": "IND",
+                "home_team": "DEN"
+            },
+            {
+                "away_team": "KC",
+                "home_team": "CLE"
+            },
+            {
+                "away_team": "LAR",
+                "home_team": "SF"
+            },
+            {
+                "away_team": "MIA",
+                "home_team": "HOU"
+            },
+            {
+                "away_team": "NE",
+                "home_team": "ARI"
+            },
+            {
+                "away_team": "NYJ",
+                "home_team": "JAX"
+            },
+            {
+                "away_team": "PIT",
+                "home_team": "PHI"
+            },
+            {
+                "away_team": "TB",
+                "home_team": "LAC"
+            },
+            {
+                "away_team": "WSH",
+                "home_team": "NO"
+            }
+        ]
+    },
+    {
+        "label": "Week 16",
+        "games": [
+            {
+                "away_team": "ARI",
+                "home_team": "CAR"
+            },
+            {
+                "away_team": "CLE",
+                "home_team": "CIN"
+            },
+            {
+                "away_team": "DEN",
+                "home_team": "LAC"
+            },
+            {
+                "away_team": "DET",
+                "home_team": "CHI"
+            },
+            {
+                "away_team": "HOU",
+                "home_team": "KC"
+            },
+            {
+                "away_team": "JAX",
+                "home_team": "LV"
+            },
+            {
+                "away_team": "LAR",
+                "home_team": "NYJ"
+            },
+            {
+                "away_team": "MIN",
+                "home_team": "SEA"
+            },
+            {
+                "away_team": "NE",
+                "home_team": "BUF"
+            },
+            {
+                "away_team": "NO",
+                "home_team": "GB"
+            },
+            {
+                "away_team": "NYG",
+                "home_team": "ATL"
+            },
+            {
+                "away_team": "PHI",
+                "home_team": "WSH"
+            },
+            {
+                "away_team": "PIT",
+                "home_team": "BAL"
+            },
+            {
+                "away_team": "SF",
+                "home_team": "MIA"
+            },
+            {
+                "away_team": "TB",
+                "home_team": "DAL"
+            },
+            {
+                "away_team": "TEN",
+                "home_team": "IND"
+            }
+        ]
+    },
+    {
+        "label": "Week 17",
+        "games": [
+            {
+                "away_team": "ARI",
+                "home_team": "LAR"
+            },
+            {
+                "away_team": "ATL",
+                "home_team": "WSH"
+            },
+            {
+                "away_team": "BAL",
+                "home_team": "HOU"
+            },
+            {
+                "away_team": "CAR",
+                "home_team": "TB"
+            },
+            {
+                "away_team": "DAL",
+                "home_team": "PHI"
+            },
+            {
+                "away_team": "DEN",
+                "home_team": "CIN"
+            },
+            {
+                "away_team": "DET",
+                "home_team": "SF"
+            },
+            {
+                "away_team": "GB",
+                "home_team": "MIN"
+            },
+            {
+                "away_team": "IND",
+                "home_team": "NYG"
+            },
+            {
+                "away_team": "KC",
+                "home_team": "PIT"
+            },
+            {
+                "away_team": "LV",
+                "home_team": "NO"
+            },
+            {
+                "away_team": "LAC",
+                "home_team": "NE"
+            },
+            {
+                "away_team": "MIA",
+                "home_team": "CLE"
+            },
+            {
+                "away_team": "NYJ",
+                "home_team": "BUF"
+            },
+            {
+                "away_team": "SEA",
+                "home_team": "CHI"
+            },
+            {
+                "away_team": "TEN",
+                "home_team": "JAX"
+            }
+        ]
+    },
+    {
+        "label": "Week 18",
+        "games": [
+            {
+                "away_team": "BUF",
+                "home_team": "NE"
+            },
+            {
+                "away_team": "CAR",
+                "home_team": "ATL"
+            },
+            {
+                "away_team": "CHI",
+                "home_team": "GB"
+            },
+            {
+                "away_team": "CIN",
+                "home_team": "PIT"
+            },
+            {
+                "away_team": "CLE",
+                "home_team": "BAL"
+            },
+            {
+                "away_team": "HOU",
+                "home_team": "TEN"
+            },
+            {
+                "away_team": "JAX",
+                "home_team": "IND"
+            },
+            {
+                "away_team": "KC",
+                "home_team": "DEN"
+            },
+            {
+                "away_team": "LAC",
+                "home_team": "LV"
+            },
+            {
+                "away_team": "MIA",
+                "home_team": "NYJ"
+            },
+            {
+                "away_team": "MIN",
+                "home_team": "DET"
+            },
+            {
+                "away_team": "NO",
+                "home_team": "TB"
+            },
+            {
+                "away_team": "NYG",
+                "home_team": "PHI"
+            },
+            {
+                "away_team": "SF",
+                "home_team": "ARI"
+            },
+            {
+                "away_team": "SEA",
+                "home_team": "LAR"
+            },
+            {
+                "away_team": "WSH",
+                "home_team": "DAL"
+            }
+        ]
+    }
+]

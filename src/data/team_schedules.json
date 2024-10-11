@@ -1,0 +1,2946 @@
+{
+    "ARI": [
+        {
+            "week": "Week 1",
+            "location": "Away",
+            "opponent": "@BUF"
+        },
+        {
+            "week": "Week 2",
+            "location": "Home",
+            "opponent": "LAR"
+        },
+        {
+            "week": "Week 3",
+            "location": "Home",
+            "opponent": "DET"
+        },
+        {
+            "week": "Week 4",
+            "location": "Home",
+            "opponent": "WSH"
+        },
+        {
+            "week": "Week 5",
+            "location": "Away",
+            "opponent": "@SF"
+        },
+        {
+            "week": "Week 6",
+            "location": "Away",
+            "opponent": "@GB"
+        },
+        {
+            "week": "Week 7",
+            "location": "Home",
+            "opponent": "LAC"
+        },
+        {
+            "week": "Week 8",
+            "location": "Away",
+            "opponent": "@MIA"
+        },
+        {
+            "week": "Week 9",
+            "location": "Home",
+            "opponent": "CHI"
+        },
+        {
+            "week": "Week 10",
+            "location": "Home",
+            "opponent": "NYJ"
+        },
+        {
+            "week": "Week 11",
+            "location": "Home",
+            "opponent": "BYE"
+        },
+        {
+            "week": "Week 12",
+            "location": "Away",
+            "opponent": "@SEA"
+        },
+        {
+            "week": "Week 13",
+            "location": "Away",
+            "opponent": "@MIN"
+        },
+        {
+            "week": "Week 14",
+            "location": "Home",
+            "opponent": "SEA"
+        },
+        {
+            "week": "Week 15",
+            "location": "Home",
+            "opponent": "NE"
+        },
+        {
+            "week": "Week 16",
+            "location": "Away",
+            "opponent": "@CAR"
+        },
+        {
+            "week": "Week 17",
+            "location": "Away",
+            "opponent": "@LAR"
+        },
+        {
+            "week": "Week 18",
+            "location": "Home",
+            "opponent": "SF"
+        }
+    ],
+    "ATL": [
+        {
+            "week": "Week 1",
+            "location": "Home",
+            "opponent": "PIT"
+        },
+        {
+            "week": "Week 2",
+            "location": "Away",
+            "opponent": "@PHI"
+        },
+        {
+            "week": "Week 3",
+            "location": "Home",
+            "opponent": "KC"
+        },
+        {
+            "week": "Week 4",
+            "location": "Home",
+            "opponent": "NO"
+        },
+        {
+            "week": "Week 5",
+            "location": "Home",
+            "opponent": "TB"
+        },
+        {
+            "week": "Week 6",
+            "location": "Away",
+            "opponent": "@CAR"
+        },
+        {
+            "week": "Week 7",
+            "location": "Home",
+            "opponent": "SEA"
+        },
+        {
+            "week": "Week 8",
+            "location": "Away",
+            "opponent": "@TB"
+        },
+        {
+            "week": "Week 9",
+            "location": "Home",
+            "opponent": "DAL"
+        },
+        {
+            "week": "Week 10",
+            "location": "Away",
+            "opponent": "@NO"
+        },
+        {
+            "week": "Week 11",
+            "location": "Away",
+            "opponent": "@DEN"
+        },
+        {
+            "week": "Week 12",
+            "location": "Home",
+            "opponent": "BYE"
+        },
+        {
+            "week": "Week 13",
+            "location": "Home",
+            "opponent": "LAC"
+        },
+        {
+            "week": "Week 14",
+            "location": "Away",
+            "opponent": "@MIN"
+        },
+        {
+            "week": "Week 15",
+            "location": "Away",
+            "opponent": "@LV"
+        },
+        {
+            "week": "Week 16",
+            "location": "Home",
+            "opponent": "NYG"
+        },
+        {
+            "week": "Week 17",
+            "location": "Away",
+            "opponent": "@WSH"
+        },
+        {
+            "week": "Week 18",
+            "location": "Home",
+            "opponent": "CAR"
+        }
+    ],
+    "BAL": [
+        {
+            "week": "Week 1",
+            "location": "Away",
+            "opponent": "@KC"
+        },
+        {
+            "week": "Week 2",
+            "location": "Home",
+            "opponent": "LV"
+        },
+        {
+            "week": "Week 3",
+            "location": "Away",
+            "opponent": "@DAL"
+        },
+        {
+            "week": "Week 4",
+            "location": "Home",
+            "opponent": "BUF"
+        },
+        {
+            "week": "Week 5",
+            "location": "Away",
+            "opponent": "@CIN"
+        },
+        {
+            "week": "Week 6",
+            "location": "Home",
+            "opponent": "WSH"
+        },
+        {
+            "week": "Week 7",
+            "location": "Away",
+            "opponent": "@TB"
+        },
+        {
+            "week": "Week 8",
+            "location": "Away",
+            "opponent": "@CLE"
+        },
+        {
+            "week": "Week 9",
+            "location": "Home",
+            "opponent": "DEN"
+        },
+        {
+            "week": "Week 10",
+            "location": "Home",
+            "opponent": "CIN"
+        },
+        {
+            "week": "Week 11",
+            "location": "Away",
+            "opponent": "@PIT"
+        },
+        {
+            "week": "Week 12",
+            "location": "Away",
+            "opponent": "@LAC"
+        },
+        {
+            "week": "Week 13",
+            "location": "Home",
+            "opponent": "PHI"
+        },
+        {
+            "week": "Week 14",
+            "location": "Home",
+            "opponent": "BYE"
+        },
+        {
+            "week": "Week 15",
+            "location": "Away",
+            "opponent": "@NYG"
+        },
+        {
+            "week": "Week 16",
+            "location": "Home",
+            "opponent": "PIT"
+        },
+        {
+            "week": "Week 17",
+            "location": "Away",
+            "opponent": "@HOU"
+        },
+        {
+            "week": "Week 18",
+            "location": "Home",
+            "opponent": "CLE"
+        }
+    ],
+    "BUF": [
+        {
+            "week": "Week 1",
+            "location": "Home",
+            "opponent": "ARI"
+        },
+        {
+            "week": "Week 2",
+            "location": "Away",
+            "opponent": "@MIA"
+        },
+        {
+            "week": "Week 3",
+            "location": "Home",
+            "opponent": "JAX"
+        },
+        {
+            "week": "Week 4",
+            "location": "Away",
+            "opponent": "@BAL"
+        },
+        {
+            "week": "Week 5",
+            "location": "Away",
+            "opponent": "@HOU"
+        },
+        {
+            "week": "Week 6",
+            "location": "Away",
+            "opponent": "@NYJ"
+        },
+        {
+            "week": "Week 7",
+            "location": "Home",
+            "opponent": "TEN"
+        },
+        {
+            "week": "Week 8",
+            "location": "Away",
+            "opponent": "@SEA"
+        },
+        {
+            "week": "Week 9",
+            "location": "Home",
+            "opponent": "MIA"
+        },
+        {
+            "week": "Week 10",
+            "location": "Away",
+            "opponent": "@IND"
+        },
+        {
+            "week": "Week 11",
+            "location": "Home",
+            "opponent": "KC"
+        },
+        {
+            "week": "Week 12",
+            "location": "Home",
+            "opponent": "BYE"
+        },
+        {
+            "week": "Week 13",
+            "location": "Home",
+            "opponent": "SF"
+        },
+        {
+            "week": "Week 14",
+            "location": "Away",
+            "opponent": "@LAR"
+        },
+        {
+            "week": "Week 15",
+            "location": "Away",
+            "opponent": "@DET"
+        },
+        {
+            "week": "Week 16",
+            "location": "Home",
+            "opponent": "NE"
+        },
+        {
+            "week": "Week 17",
+            "location": "Home",
+            "opponent": "NYJ"
+        },
+        {
+            "week": "Week 18",
+            "location": "Away",
+            "opponent": "@NE"
+        }
+    ],
+    "CAR": [
+        {
+            "week": "Week 1",
+            "location": "Away",
+            "opponent": "@NO"
+        },
+        {
+            "week": "Week 2",
+            "location": "Home",
+            "opponent": "LAC"
+        },
+        {
+            "week": "Week 3",
+            "location": "Away",
+            "opponent": "@LV"
+        },
+        {
+            "week": "Week 4",
+            "location": "Home",
+            "opponent": "CIN"
+        },
+        {
+            "week": "Week 5",
+            "location": "Away",
+            "opponent": "@CHI"
+        },
+        {
+            "week": "Week 6",
+            "location": "Home",
+            "opponent": "ATL"
+        },
+        {
+            "week": "Week 7",
+            "location": "Away",
+            "opponent": "@WSH"
+        },
+        {
+            "week": "Week 8",
+            "location": "Away",
+            "opponent": "@DEN"
+        },
+        {
+            "week": "Week 9",
+            "location": "Home",
+            "opponent": "NO"
+        },
+        {
+            "week": "Week 10",
+            "location": "Home",
+            "opponent": "NYG"
+        },
+        {
+            "week": "Week 11",
+            "location": "Home",
+            "opponent": "BYE"
+        },
+        {
+            "week": "Week 12",
+            "location": "Home",
+            "opponent": "KC"
+        },
+        {
+            "week": "Week 13",
+            "location": "Home",
+            "opponent": "TB"
+        },
+        {
+            "week": "Week 14",
+            "location": "Away",
+            "opponent": "@PHI"
+        },
+        {
+            "week": "Week 15",
+            "location": "Home",
+            "opponent": "DAL"
+        },
+        {
+            "week": "Week 16",
+            "location": "Home",
+            "opponent": "ARI"
+        },
+        {
+            "week": "Week 17",
+            "location": "Away",
+            "opponent": "@TB"
+        },
+        {
+            "week": "Week 18",
+            "location": "Away",
+            "opponent": "@ATL"
+        }
+    ],
+    "CHI": [
+        {
+            "week": "Week 1",
+            "location": "Home",
+            "opponent": "TEN"
+        },
+        {
+            "week": "Week 2",
+            "location": "Away",
+            "opponent": "@HOU"
+        },
+        {
+            "week": "Week 3",
+            "location": "Away",
+            "opponent": "@IND"
+        },
+        {
+            "week": "Week 4",
+            "location": "Home",
+            "opponent": "LAR"
+        },
+        {
+            "week": "Week 5",
+            "location": "Home",
+            "opponent": "CAR"
+        },
+        {
+            "week": "Week 6",
+            "location": "Home",
+            "opponent": "JAX"
+        },
+        {
+            "week": "Week 7",
+            "location": "Home",
+            "opponent": "BYE"
+        },
+        {
+            "week": "Week 8",
+            "location": "Away",
+            "opponent": "@WSH"
+        },
+        {
+            "week": "Week 9",
+            "location": "Away",
+            "opponent": "@ARI"
+        },
+        {
+            "week": "Week 10",
+            "location": "Home",
+            "opponent": "NE"
+        },
+        {
+            "week": "Week 11",
+            "location": "Home",
+            "opponent": "GB"
+        },
+        {
+            "week": "Week 12",
+            "location": "Home",
+            "opponent": "MIN"
+        },
+        {
+            "week": "Week 13",
+            "location": "Away",
+            "opponent": "@DET"
+        },
+        {
+            "week": "Week 14",
+            "location": "Away",
+            "opponent": "@SF"
+        },
+        {
+            "week": "Week 15",
+            "location": "Away",
+            "opponent": "@MIN"
+        },
+        {
+            "week": "Week 16",
+            "location": "Home",
+            "opponent": "DET"
+        },
+        {
+            "week": "Week 17",
+            "location": "Home",
+            "opponent": "SEA"
+        },
+        {
+            "week": "Week 18",
+            "location": "Away",
+            "opponent": "@GB"
+        }
+    ],
+    "CIN": [
+        {
+            "week": "Week 1",
+            "location": "Home",
+            "opponent": "NE"
+        },
+        {
+            "week": "Week 2",
+            "location": "Away",
+            "opponent": "@KC"
+        },
+        {
+            "week": "Week 3",
+            "location": "Home",
+            "opponent": "WSH"
+        },
+        {
+            "week": "Week 4",
+            "location": "Away",
+            "opponent": "@CAR"
+        },
+        {
+            "week": "Week 5",
+            "location": "Home",
+            "opponent": "BAL"
+        },
+        {
+            "week": "Week 6",
+            "location": "Away",
+            "opponent": "@NYG"
+        },
+        {
+            "week": "Week 7",
+            "location": "Away",
+            "opponent": "@CLE"
+        },
+        {
+            "week": "Week 8",
+            "location": "Home",
+            "opponent": "PHI"
+        },
+        {
+            "week": "Week 9",
+            "location": "Home",
+            "opponent": "LV"
+        },
+        {
+            "week": "Week 10",
+            "location": "Away",
+            "opponent": "@BAL"
+        },
+        {
+            "week": "Week 11",
+            "location": "Away",
+            "opponent": "@LAC"
+        },
+        {
+            "week": "Week 12",
+            "location": "Home",
+            "opponent": "BYE"
+        },
+        {
+            "week": "Week 13",
+            "location": "Home",
+            "opponent": "PIT"
+        },
+        {
+            "week": "Week 14",
+            "location": "Away",
+            "opponent": "@DAL"
+        },
+        {
+            "week": "Week 15",
+            "location": "Away",
+            "opponent": "@TEN"
+        },
+        {
+            "week": "Week 16",
+            "location": "Home",
+            "opponent": "CLE"
+        },
+        {
+            "week": "Week 17",
+            "location": "Home",
+            "opponent": "DEN"
+        },
+        {
+            "week": "Week 18",
+            "location": "Away",
+            "opponent": "@PIT"
+        }
+    ],
+    "CLE": [
+        {
+            "week": "Week 1",
+            "location": "Home",
+            "opponent": "DAL"
+        },
+        {
+            "week": "Week 2",
+            "location": "Away",
+            "opponent": "@JAX"
+        },
+        {
+            "week": "Week 3",
+            "location": "Home",
+            "opponent": "NYG"
+        },
+        {
+            "week": "Week 4",
+            "location": "Away",
+            "opponent": "@LV"
+        },
+        {
+            "week": "Week 5",
+            "location": "Away",
+            "opponent": "@WSH"
+        },
+        {
+            "week": "Week 6",
+            "location": "Away",
+            "opponent": "@PHI"
+        },
+        {
+            "week": "Week 7",
+            "location": "Home",
+            "opponent": "CIN"
+        },
+        {
+            "week": "Week 8",
+            "location": "Home",
+            "opponent": "BAL"
+        },
+        {
+            "week": "Week 9",
+            "location": "Home",
+            "opponent": "LAC"
+        },
+        {
+            "week": "Week 10",
+            "location": "Home",
+            "opponent": "BYE"
+        },
+        {
+            "week": "Week 11",
+            "location": "Away",
+            "opponent": "@NO"
+        },
+        {
+            "week": "Week 12",
+            "location": "Home",
+            "opponent": "PIT"
+        },
+        {
+            "week": "Week 13",
+            "location": "Away",
+            "opponent": "@DEN"
+        },
+        {
+            "week": "Week 14",
+            "location": "Away",
+            "opponent": "@PIT"
+        },
+        {
+            "week": "Week 15",
+            "location": "Home",
+            "opponent": "KC"
+        },
+        {
+            "week": "Week 16",
+            "location": "Away",
+            "opponent": "@CIN"
+        },
+        {
+            "week": "Week 17",
+            "location": "Home",
+            "opponent": "MIA"
+        },
+        {
+            "week": "Week 18",
+            "location": "Away",
+            "opponent": "@BAL"
+        }
+    ],
+    "DAL": [
+        {
+            "week": "Week 1",
+            "location": "Away",
+            "opponent": "@CLE"
+        },
+        {
+            "week": "Week 2",
+            "location": "Home",
+            "opponent": "NO"
+        },
+        {
+            "week": "Week 3",
+            "location": "Home",
+            "opponent": "BAL"
+        },
+        {
+            "week": "Week 4",
+            "location": "Away",
+            "opponent": "@NYG"
+        },
+        {
+            "week": "Week 5",
+            "location": "Away",
+            "opponent": "@PIT"
+        },
+        {
+            "week": "Week 6",
+            "location": "Home",
+            "opponent": "DET"
+        },
+        {
+            "week": "Week 7",
+            "location": "Home",
+            "opponent": "BYE"
+        },
+        {
+            "week": "Week 8",
+            "location": "Away",
+            "opponent": "@SF"
+        },
+        {
+            "week": "Week 9",
+            "location": "Away",
+            "opponent": "@ATL"
+        },
+        {
+            "week": "Week 10",
+            "location": "Home",
+            "opponent": "PHI"
+        },
+        {
+            "week": "Week 11",
+            "location": "Home",
+            "opponent": "HOU"
+        },
+        {
+            "week": "Week 12",
+            "location": "Away",
+            "opponent": "@WSH"
+        },
+        {
+            "week": "Week 13",
+            "location": "Home",
+            "opponent": "NYG"
+        },
+        {
+            "week": "Week 14",
+            "location": "Home",
+            "opponent": "CIN"
+        },
+        {
+            "week": "Week 15",
+            "location": "Away",
+            "opponent": "@CAR"
+        },
+        {
+            "week": "Week 16",
+            "location": "Home",
+            "opponent": "TB"
+        },
+        {
+            "week": "Week 17",
+            "location": "Away",
+            "opponent": "@PHI"
+        },
+        {
+            "week": "Week 18",
+            "location": "Home",
+            "opponent": "WSH"
+        }
+    ],
+    "DEN": [
+        {
+            "week": "Week 1",
+            "location": "Away",
+            "opponent": "@SEA"
+        },
+        {
+            "week": "Week 2",
+            "location": "Home",
+            "opponent": "PIT"
+        },
+        {
+            "week": "Week 3",
+            "location": "Away",
+            "opponent": "@TB"
+        },
+        {
+            "week": "Week 4",
+            "location": "Away",
+            "opponent": "@NYJ"
+        },
+        {
+            "week": "Week 5",
+            "location": "Home",
+            "opponent": "LV"
+        },
+        {
+            "week": "Week 6",
+            "location": "Home",
+            "opponent": "LAC"
+        },
+        {
+            "week": "Week 7",
+            "location": "Away",
+            "opponent": "@NO"
+        },
+        {
+            "week": "Week 8",
+            "location": "Home",
+            "opponent": "CAR"
+        },
+        {
+            "week": "Week 9",
+            "location": "Away",
+            "opponent": "@BAL"
+        },
+        {
+            "week": "Week 10",
+            "location": "Away",
+            "opponent": "@KC"
+        },
+        {
+            "week": "Week 11",
+            "location": "Home",
+            "opponent": "ATL"
+        },
+        {
+            "week": "Week 12",
+            "location": "Away",
+            "opponent": "@LV"
+        },
+        {
+            "week": "Week 13",
+            "location": "Home",
+            "opponent": "CLE"
+        },
+        {
+            "week": "Week 14",
+            "location": "Home",
+            "opponent": "BYE"
+        },
+        {
+            "week": "Week 15",
+            "location": "Home",
+            "opponent": "IND"
+        },
+        {
+            "week": "Week 16",
+            "location": "Away",
+            "opponent": "@LAC"
+        },
+        {
+            "week": "Week 17",
+            "location": "Away",
+            "opponent": "@CIN"
+        },
+        {
+            "week": "Week 18",
+            "location": "Home",
+            "opponent": "KC"
+        }
+    ],
+    "DET": [
+        {
+            "week": "Week 1",
+            "location": "Home",
+            "opponent": "LAR"
+        },
+        {
+            "week": "Week 2",
+            "location": "Home",
+            "opponent": "TB"
+        },
+        {
+            "week": "Week 3",
+            "location": "Away",
+            "opponent": "@ARI"
+        },
+        {
+            "week": "Week 4",
+            "location": "Home",
+            "opponent": "SEA"
+        },
+        {
+            "week": "Week 5",
+            "location": "Home",
+            "opponent": "BYE"
+        },
+        {
+            "week": "Week 6",
+            "location": "Away",
+            "opponent": "@DAL"
+        },
+        {
+            "week": "Week 7",
+            "location": "Away",
+            "opponent": "@MIN"
+        },
+        {
+            "week": "Week 8",
+            "location": "Home",
+            "opponent": "TEN"
+        },
+        {
+            "week": "Week 9",
+            "location": "Away",
+            "opponent": "@GB"
+        },
+        {
+            "week": "Week 10",
+            "location": "Away",
+            "opponent": "@HOU"
+        },
+        {
+            "week": "Week 11",
+            "location": "Home",
+            "opponent": "JAX"
+        },
+        {
+            "week": "Week 12",
+            "location": "Away",
+            "opponent": "@IND"
+        },
+        {
+            "week": "Week 13",
+            "location": "Home",
+            "opponent": "CHI"
+        },
+        {
+            "week": "Week 14",
+            "location": "Home",
+            "opponent": "GB"
+        },
+        {
+            "week": "Week 15",
+            "location": "Home",
+            "opponent": "BUF"
+        },
+        {
+            "week": "Week 16",
+            "location": "Away",
+            "opponent": "@CHI"
+        },
+        {
+            "week": "Week 17",
+            "location": "Away",
+            "opponent": "@SF"
+        },
+        {
+            "week": "Week 18",
+            "location": "Home",
+            "opponent": "MIN"
+        }
+    ],
+    "GB": [
+        {
+            "week": "Week 1",
+            "location": "Away",
+            "opponent": "@PHI"
+        },
+        {
+            "week": "Week 2",
+            "location": "Home",
+            "opponent": "IND"
+        },
+        {
+            "week": "Week 3",
+            "location": "Away",
+            "opponent": "@TEN"
+        },
+        {
+            "week": "Week 4",
+            "location": "Home",
+            "opponent": "MIN"
+        },
+        {
+            "week": "Week 5",
+            "location": "Away",
+            "opponent": "@LAR"
+        },
+        {
+            "week": "Week 6",
+            "location": "Home",
+            "opponent": "ARI"
+        },
+        {
+            "week": "Week 7",
+            "location": "Home",
+            "opponent": "HOU"
+        },
+        {
+            "week": "Week 8",
+            "location": "Away",
+            "opponent": "@JAX"
+        },
+        {
+            "week": "Week 9",
+            "location": "Home",
+            "opponent": "DET"
+        },
+        {
+            "week": "Week 10",
+            "location": "Home",
+            "opponent": "BYE"
+        },
+        {
+            "week": "Week 11",
+            "location": "Away",
+            "opponent": "@CHI"
+        },
+        {
+            "week": "Week 12",
+            "location": "Home",
+            "opponent": "SF"
+        },
+        {
+            "week": "Week 13",
+            "location": "Home",
+            "opponent": "MIA"
+        },
+        {
+            "week": "Week 14",
+            "location": "Away",
+            "opponent": "@DET"
+        },
+        {
+            "week": "Week 15",
+            "location": "Away",
+            "opponent": "@SEA"
+        },
+        {
+            "week": "Week 16",
+            "location": "Home",
+            "opponent": "NO"
+        },
+        {
+            "week": "Week 17",
+            "location": "Away",
+            "opponent": "@MIN"
+        },
+        {
+            "week": "Week 18",
+            "location": "Home",
+            "opponent": "CHI"
+        }
+    ],
+    "HOU": [
+        {
+            "week": "Week 1",
+            "location": "Away",
+            "opponent": "@IND"
+        },
+        {
+            "week": "Week 2",
+            "location": "Home",
+            "opponent": "CHI"
+        },
+        {
+            "week": "Week 3",
+            "location": "Away",
+            "opponent": "@MIN"
+        },
+        {
+            "week": "Week 4",
+            "location": "Home",
+            "opponent": "JAX"
+        },
+        {
+            "week": "Week 5",
+            "location": "Home",
+            "opponent": "BUF"
+        },
+        {
+            "week": "Week 6",
+            "location": "Away",
+            "opponent": "@NE"
+        },
+        {
+            "week": "Week 7",
+            "location": "Away",
+            "opponent": "@GB"
+        },
+        {
+            "week": "Week 8",
+            "location": "Home",
+            "opponent": "IND"
+        },
+        {
+            "week": "Week 9",
+            "location": "Away",
+            "opponent": "@NYJ"
+        },
+        {
+            "week": "Week 10",
+            "location": "Home",
+            "opponent": "DET"
+        },
+        {
+            "week": "Week 11",
+            "location": "Away",
+            "opponent": "@DAL"
+        },
+        {
+            "week": "Week 12",
+            "location": "Home",
+            "opponent": "TEN"
+        },
+        {
+            "week": "Week 13",
+            "location": "Away",
+            "opponent": "@JAX"
+        },
+        {
+            "week": "Week 14",
+            "location": "Home",
+            "opponent": "BYE"
+        },
+        {
+            "week": "Week 15",
+            "location": "Home",
+            "opponent": "MIA"
+        },
+        {
+            "week": "Week 16",
+            "location": "Away",
+            "opponent": "@KC"
+        },
+        {
+            "week": "Week 17",
+            "location": "Home",
+            "opponent": "BAL"
+        },
+        {
+            "week": "Week 18",
+            "location": "Away",
+            "opponent": "@TEN"
+        }
+    ],
+    "IND": [
+        {
+            "week": "Week 1",
+            "location": "Home",
+            "opponent": "HOU"
+        },
+        {
+            "week": "Week 2",
+            "location": "Away",
+            "opponent": "@GB"
+        },
+        {
+            "week": "Week 3",
+            "location": "Home",
+            "opponent": "CHI"
+        },
+        {
+            "week": "Week 4",
+            "location": "Home",
+            "opponent": "PIT"
+        },
+        {
+            "week": "Week 5",
+            "location": "Away",
+            "opponent": "@JAX"
+        },
+        {
+            "week": "Week 6",
+            "location": "Away",
+            "opponent": "@TEN"
+        },
+        {
+            "week": "Week 7",
+            "location": "Home",
+            "opponent": "MIA"
+        },
+        {
+            "week": "Week 8",
+            "location": "Away",
+            "opponent": "@HOU"
+        },
+        {
+            "week": "Week 9",
+            "location": "Away",
+            "opponent": "@MIN"
+        },
+        {
+            "week": "Week 10",
+            "location": "Home",
+            "opponent": "BUF"
+        },
+        {
+            "week": "Week 11",
+            "location": "Away",
+            "opponent": "@NYJ"
+        },
+        {
+            "week": "Week 12",
+            "location": "Home",
+            "opponent": "DET"
+        },
+        {
+            "week": "Week 13",
+            "location": "Away",
+            "opponent": "@NE"
+        },
+        {
+            "week": "Week 14",
+            "location": "Home",
+            "opponent": "BYE"
+        },
+        {
+            "week": "Week 15",
+            "location": "Away",
+            "opponent": "@DEN"
+        },
+        {
+            "week": "Week 16",
+            "location": "Home",
+            "opponent": "TEN"
+        },
+        {
+            "week": "Week 17",
+            "location": "Away",
+            "opponent": "@NYG"
+        },
+        {
+            "week": "Week 18",
+            "location": "Home",
+            "opponent": "JAX"
+        }
+    ],
+    "JAX": [
+        {
+            "week": "Week 1",
+            "location": "Away",
+            "opponent": "@MIA"
+        },
+        {
+            "week": "Week 2",
+            "location": "Home",
+            "opponent": "CLE"
+        },
+        {
+            "week": "Week 3",
+            "location": "Away",
+            "opponent": "@BUF"
+        },
+        {
+            "week": "Week 4",
+            "location": "Away",
+            "opponent": "@HOU"
+        },
+        {
+            "week": "Week 5",
+            "location": "Home",
+            "opponent": "IND"
+        },
+        {
+            "week": "Week 6",
+            "location": "Away",
+            "opponent": "@CHI"
+        },
+        {
+            "week": "Week 7",
+            "location": "Home",
+            "opponent": "NE"
+        },
+        {
+            "week": "Week 8",
+            "location": "Home",
+            "opponent": "GB"
+        },
+        {
+            "week": "Week 9",
+            "location": "Away",
+            "opponent": "@PHI"
+        },
+        {
+            "week": "Week 10",
+            "location": "Home",
+            "opponent": "MIN"
+        },
+        {
+            "week": "Week 11",
+            "location": "Away",
+            "opponent": "@DET"
+        },
+        {
+            "week": "Week 12",
+            "location": "Home",
+            "opponent": "BYE"
+        },
+        {
+            "week": "Week 13",
+            "location": "Home",
+            "opponent": "HOU"
+        },
+        {
+            "week": "Week 14",
+            "location": "Away",
+            "opponent": "@TEN"
+        },
+        {
+            "week": "Week 15",
+            "location": "Home",
+            "opponent": "NYJ"
+        },
+        {
+            "week": "Week 16",
+            "location": "Away",
+            "opponent": "@LV"
+        },
+        {
+            "week": "Week 17",
+            "location": "Home",
+            "opponent": "TEN"
+        },
+        {
+            "week": "Week 18",
+            "location": "Away",
+            "opponent": "@IND"
+        }
+    ],
+    "KC": [
+        {
+            "week": "Week 1",
+            "location": "Home",
+            "opponent": "BAL"
+        },
+        {
+            "week": "Week 2",
+            "location": "Home",
+            "opponent": "CIN"
+        },
+        {
+            "week": "Week 3",
+            "location": "Away",
+            "opponent": "@ATL"
+        },
+        {
+            "week": "Week 4",
+            "location": "Away",
+            "opponent": "@LAC"
+        },
+        {
+            "week": "Week 5",
+            "location": "Home",
+            "opponent": "NO"
+        },
+        {
+            "week": "Week 6",
+            "location": "Home",
+            "opponent": "BYE"
+        },
+        {
+            "week": "Week 7",
+            "location": "Away",
+            "opponent": "@SF"
+        },
+        {
+            "week": "Week 8",
+            "location": "Away",
+            "opponent": "@LV"
+        },
+        {
+            "week": "Week 9",
+            "location": "Home",
+            "opponent": "TB"
+        },
+        {
+            "week": "Week 10",
+            "location": "Home",
+            "opponent": "DEN"
+        },
+        {
+            "week": "Week 11",
+            "location": "Away",
+            "opponent": "@BUF"
+        },
+        {
+            "week": "Week 12",
+            "location": "Away",
+            "opponent": "@CAR"
+        },
+        {
+            "week": "Week 13",
+            "location": "Home",
+            "opponent": "LV"
+        },
+        {
+            "week": "Week 14",
+            "location": "Home",
+            "opponent": "LAC"
+        },
+        {
+            "week": "Week 15",
+            "location": "Away",
+            "opponent": "@CLE"
+        },
+        {
+            "week": "Week 16",
+            "location": "Home",
+            "opponent": "HOU"
+        },
+        {
+            "week": "Week 17",
+            "location": "Away",
+            "opponent": "@PIT"
+        },
+        {
+            "week": "Week 18",
+            "location": "Away",
+            "opponent": "@DEN"
+        }
+    ],
+    "LV": [
+        {
+            "week": "Week 1",
+            "location": "Away",
+            "opponent": "@LAC"
+        },
+        {
+            "week": "Week 2",
+            "location": "Away",
+            "opponent": "@BAL"
+        },
+        {
+            "week": "Week 3",
+            "location": "Home",
+            "opponent": "CAR"
+        },
+        {
+            "week": "Week 4",
+            "location": "Home",
+            "opponent": "CLE"
+        },
+        {
+            "week": "Week 5",
+            "location": "Away",
+            "opponent": "@DEN"
+        },
+        {
+            "week": "Week 6",
+            "location": "Home",
+            "opponent": "PIT"
+        },
+        {
+            "week": "Week 7",
+            "location": "Away",
+            "opponent": "@LAR"
+        },
+        {
+            "week": "Week 8",
+            "location": "Home",
+            "opponent": "KC"
+        },
+        {
+            "week": "Week 9",
+            "location": "Away",
+            "opponent": "@CIN"
+        },
+        {
+            "week": "Week 10",
+            "location": "Home",
+            "opponent": "BYE"
+        },
+        {
+            "week": "Week 11",
+            "location": "Away",
+            "opponent": "@MIA"
+        },
+        {
+            "week": "Week 12",
+            "location": "Home",
+            "opponent": "DEN"
+        },
+        {
+            "week": "Week 13",
+            "location": "Away",
+            "opponent": "@KC"
+        },
+        {
+            "week": "Week 14",
+            "location": "Away",
+            "opponent": "@TB"
+        },
+        {
+            "week": "Week 15",
+            "location": "Home",
+            "opponent": "ATL"
+        },
+        {
+            "week": "Week 16",
+            "location": "Home",
+            "opponent": "JAX"
+        },
+        {
+            "week": "Week 17",
+            "location": "Away",
+            "opponent": "@NO"
+        },
+        {
+            "week": "Week 18",
+            "location": "Home",
+            "opponent": "LAC"
+        }
+    ],
+    "LAR": [
+        {
+            "week": "Week 1",
+            "location": "Away",
+            "opponent": "@DET"
+        },
+        {
+            "week": "Week 2",
+            "location": "Away",
+            "opponent": "@ARI"
+        },
+        {
+            "week": "Week 3",
+            "location": "Home",
+            "opponent": "SF"
+        },
+        {
+            "week": "Week 4",
+            "location": "Away",
+            "opponent": "@CHI"
+        },
+        {
+            "week": "Week 5",
+            "location": "Home",
+            "opponent": "GB"
+        },
+        {
+            "week": "Week 6",
+            "location": "Home",
+            "opponent": "BYE"
+        },
+        {
+            "week": "Week 7",
+            "location": "Home",
+            "opponent": "LV"
+        },
+        {
+            "week": "Week 8",
+            "location": "Home",
+            "opponent": "MIN"
+        },
+        {
+            "week": "Week 9",
+            "location": "Away",
+            "opponent": "@SEA"
+        },
+        {
+            "week": "Week 10",
+            "location": "Home",
+            "opponent": "MIA"
+        },
+        {
+            "week": "Week 11",
+            "location": "Away",
+            "opponent": "@NE"
+        },
+        {
+            "week": "Week 12",
+            "location": "Home",
+            "opponent": "PHI"
+        },
+        {
+            "week": "Week 13",
+            "location": "Away",
+            "opponent": "@NO"
+        },
+        {
+            "week": "Week 14",
+            "location": "Home",
+            "opponent": "BUF"
+        },
+        {
+            "week": "Week 15",
+            "location": "Away",
+            "opponent": "@SF"
+        },
+        {
+            "week": "Week 16",
+            "location": "Away",
+            "opponent": "@NYJ"
+        },
+        {
+            "week": "Week 17",
+            "location": "Home",
+            "opponent": "ARI"
+        },
+        {
+            "week": "Week 18",
+            "location": "Home",
+            "opponent": "SEA"
+        }
+    ],
+    "LAC": [
+        {
+            "week": "Week 1",
+            "location": "Home",
+            "opponent": "LV"
+        },
+        {
+            "week": "Week 2",
+            "location": "Away",
+            "opponent": "@CAR"
+        },
+        {
+            "week": "Week 3",
+            "location": "Away",
+            "opponent": "@PIT"
+        },
+        {
+            "week": "Week 4",
+            "location": "Home",
+            "opponent": "KC"
+        },
+        {
+            "week": "Week 5",
+            "location": "Home",
+            "opponent": "BYE"
+        },
+        {
+            "week": "Week 6",
+            "location": "Away",
+            "opponent": "@DEN"
+        },
+        {
+            "week": "Week 7",
+            "location": "Away",
+            "opponent": "@ARI"
+        },
+        {
+            "week": "Week 8",
+            "location": "Home",
+            "opponent": "NO"
+        },
+        {
+            "week": "Week 9",
+            "location": "Away",
+            "opponent": "@CLE"
+        },
+        {
+            "week": "Week 10",
+            "location": "Home",
+            "opponent": "TEN"
+        },
+        {
+            "week": "Week 11",
+            "location": "Home",
+            "opponent": "CIN"
+        },
+        {
+            "week": "Week 12",
+            "location": "Home",
+            "opponent": "BAL"
+        },
+        {
+            "week": "Week 13",
+            "location": "Away",
+            "opponent": "@ATL"
+        },
+        {
+            "week": "Week 14",
+            "location": "Away",
+            "opponent": "@KC"
+        },
+        {
+            "week": "Week 15",
+            "location": "Home",
+            "opponent": "TB"
+        },
+        {
+            "week": "Week 16",
+            "location": "Home",
+            "opponent": "DEN"
+        },
+        {
+            "week": "Week 17",
+            "location": "Away",
+            "opponent": "@NE"
+        },
+        {
+            "week": "Week 18",
+            "location": "Away",
+            "opponent": "@LV"
+        }
+    ],
+    "MIA": [
+        {
+            "week": "Week 1",
+            "location": "Home",
+            "opponent": "JAX"
+        },
+        {
+            "week": "Week 2",
+            "location": "Home",
+            "opponent": "BUF"
+        },
+        {
+            "week": "Week 3",
+            "location": "Away",
+            "opponent": "@SEA"
+        },
+        {
+            "week": "Week 4",
+            "location": "Home",
+            "opponent": "TEN"
+        },
+        {
+            "week": "Week 5",
+            "location": "Away",
+            "opponent": "@NE"
+        },
+        {
+            "week": "Week 6",
+            "location": "Home",
+            "opponent": "BYE"
+        },
+        {
+            "week": "Week 7",
+            "location": "Away",
+            "opponent": "@IND"
+        },
+        {
+            "week": "Week 8",
+            "location": "Home",
+            "opponent": "ARI"
+        },
+        {
+            "week": "Week 9",
+            "location": "Away",
+            "opponent": "@BUF"
+        },
+        {
+            "week": "Week 10",
+            "location": "Away",
+            "opponent": "@LAR"
+        },
+        {
+            "week": "Week 11",
+            "location": "Home",
+            "opponent": "LV"
+        },
+        {
+            "week": "Week 12",
+            "location": "Home",
+            "opponent": "NE"
+        },
+        {
+            "week": "Week 13",
+            "location": "Away",
+            "opponent": "@GB"
+        },
+        {
+            "week": "Week 14",
+            "location": "Home",
+            "opponent": "NYJ"
+        },
+        {
+            "week": "Week 15",
+            "location": "Away",
+            "opponent": "@HOU"
+        },
+        {
+            "week": "Week 16",
+            "location": "Home",
+            "opponent": "SF"
+        },
+        {
+            "week": "Week 17",
+            "location": "Away",
+            "opponent": "@CLE"
+        },
+        {
+            "week": "Week 18",
+            "location": "Away",
+            "opponent": "@NYJ"
+        }
+    ],
+    "MIN": [
+        {
+            "week": "Week 1",
+            "location": "Away",
+            "opponent": "@NYG"
+        },
+        {
+            "week": "Week 2",
+            "location": "Home",
+            "opponent": "SF"
+        },
+        {
+            "week": "Week 3",
+            "location": "Home",
+            "opponent": "HOU"
+        },
+        {
+            "week": "Week 4",
+            "location": "Away",
+            "opponent": "@GB"
+        },
+        {
+            "week": "Week 5",
+            "location": "Home",
+            "opponent": "NYJ"
+        },
+        {
+            "week": "Week 6",
+            "location": "Home",
+            "opponent": "BYE"
+        },
+        {
+            "week": "Week 7",
+            "location": "Home",
+            "opponent": "DET"
+        },
+        {
+            "week": "Week 8",
+            "location": "Away",
+            "opponent": "@LAR"
+        },
+        {
+            "week": "Week 9",
+            "location": "Home",
+            "opponent": "IND"
+        },
+        {
+            "week": "Week 10",
+            "location": "Away",
+            "opponent": "@JAX"
+        },
+        {
+            "week": "Week 11",
+            "location": "Away",
+            "opponent": "@TEN"
+        },
+        {
+            "week": "Week 12",
+            "location": "Away",
+            "opponent": "@CHI"
+        },
+        {
+            "week": "Week 13",
+            "location": "Home",
+            "opponent": "ARI"
+        },
+        {
+            "week": "Week 14",
+            "location": "Home",
+            "opponent": "ATL"
+        },
+        {
+            "week": "Week 15",
+            "location": "Home",
+            "opponent": "CHI"
+        },
+        {
+            "week": "Week 16",
+            "location": "Away",
+            "opponent": "@SEA"
+        },
+        {
+            "week": "Week 17",
+            "location": "Home",
+            "opponent": "GB"
+        },
+        {
+            "week": "Week 18",
+            "location": "Away",
+            "opponent": "@DET"
+        }
+    ],
+    "NE": [
+        {
+            "week": "Week 1",
+            "location": "Away",
+            "opponent": "@CIN"
+        },
+        {
+            "week": "Week 2",
+            "location": "Home",
+            "opponent": "SEA"
+        },
+        {
+            "week": "Week 3",
+            "location": "Away",
+            "opponent": "@NYJ"
+        },
+        {
+            "week": "Week 4",
+            "location": "Away",
+            "opponent": "@SF"
+        },
+        {
+            "week": "Week 5",
+            "location": "Home",
+            "opponent": "MIA"
+        },
+        {
+            "week": "Week 6",
+            "location": "Home",
+            "opponent": "HOU"
+        },
+        {
+            "week": "Week 7",
+            "location": "Away",
+            "opponent": "@JAX"
+        },
+        {
+            "week": "Week 8",
+            "location": "Home",
+            "opponent": "NYJ"
+        },
+        {
+            "week": "Week 9",
+            "location": "Away",
+            "opponent": "@TEN"
+        },
+        {
+            "week": "Week 10",
+            "location": "Away",
+            "opponent": "@CHI"
+        },
+        {
+            "week": "Week 11",
+            "location": "Home",
+            "opponent": "LAR"
+        },
+        {
+            "week": "Week 12",
+            "location": "Away",
+            "opponent": "@MIA"
+        },
+        {
+            "week": "Week 13",
+            "location": "Home",
+            "opponent": "IND"
+        },
+        {
+            "week": "Week 14",
+            "location": "Home",
+            "opponent": "BYE"
+        },
+        {
+            "week": "Week 15",
+            "location": "Away",
+            "opponent": "@ARI"
+        },
+        {
+            "week": "Week 16",
+            "location": "Away",
+            "opponent": "@BUF"
+        },
+        {
+            "week": "Week 17",
+            "location": "Home",
+            "opponent": "LAC"
+        },
+        {
+            "week": "Week 18",
+            "location": "Home",
+            "opponent": "BUF"
+        }
+    ],
+    "NO": [
+        {
+            "week": "Week 1",
+            "location": "Home",
+            "opponent": "CAR"
+        },
+        {
+            "week": "Week 2",
+            "location": "Away",
+            "opponent": "@DAL"
+        },
+        {
+            "week": "Week 3",
+            "location": "Home",
+            "opponent": "PHI"
+        },
+        {
+            "week": "Week 4",
+            "location": "Away",
+            "opponent": "@ATL"
+        },
+        {
+            "week": "Week 5",
+            "location": "Away",
+            "opponent": "@KC"
+        },
+        {
+            "week": "Week 6",
+            "location": "Home",
+            "opponent": "TB"
+        },
+        {
+            "week": "Week 7",
+            "location": "Home",
+            "opponent": "DEN"
+        },
+        {
+            "week": "Week 8",
+            "location": "Away",
+            "opponent": "@LAC"
+        },
+        {
+            "week": "Week 9",
+            "location": "Away",
+            "opponent": "@CAR"
+        },
+        {
+            "week": "Week 10",
+            "location": "Home",
+            "opponent": "ATL"
+        },
+        {
+            "week": "Week 11",
+            "location": "Home",
+            "opponent": "CLE"
+        },
+        {
+            "week": "Week 12",
+            "location": "Home",
+            "opponent": "BYE"
+        },
+        {
+            "week": "Week 13",
+            "location": "Home",
+            "opponent": "LAR"
+        },
+        {
+            "week": "Week 14",
+            "location": "Away",
+            "opponent": "@NYG"
+        },
+        {
+            "week": "Week 15",
+            "location": "Home",
+            "opponent": "WSH"
+        },
+        {
+            "week": "Week 16",
+            "location": "Away",
+            "opponent": "@GB"
+        },
+        {
+            "week": "Week 17",
+            "location": "Home",
+            "opponent": "LV"
+        },
+        {
+            "week": "Week 18",
+            "location": "Away",
+            "opponent": "@TB"
+        }
+    ],
+    "NYG": [
+        {
+            "week": "Week 1",
+            "location": "Home",
+            "opponent": "MIN"
+        },
+        {
+            "week": "Week 2",
+            "location": "Away",
+            "opponent": "@WSH"
+        },
+        {
+            "week": "Week 3",
+            "location": "Away",
+            "opponent": "@CLE"
+        },
+        {
+            "week": "Week 4",
+            "location": "Home",
+            "opponent": "DAL"
+        },
+        {
+            "week": "Week 5",
+            "location": "Away",
+            "opponent": "@SEA"
+        },
+        {
+            "week": "Week 6",
+            "location": "Home",
+            "opponent": "CIN"
+        },
+        {
+            "week": "Week 7",
+            "location": "Home",
+            "opponent": "PHI"
+        },
+        {
+            "week": "Week 8",
+            "location": "Away",
+            "opponent": "@PIT"
+        },
+        {
+            "week": "Week 9",
+            "location": "Home",
+            "opponent": "WSH"
+        },
+        {
+            "week": "Week 10",
+            "location": "Away",
+            "opponent": "@CAR"
+        },
+        {
+            "week": "Week 11",
+            "location": "Home",
+            "opponent": "BYE"
+        },
+        {
+            "week": "Week 12",
+            "location": "Home",
+            "opponent": "TB"
+        },
+        {
+            "week": "Week 13",
+            "location": "Away",
+            "opponent": "@DAL"
+        },
+        {
+            "week": "Week 14",
+            "location": "Home",
+            "opponent": "NO"
+        },
+        {
+            "week": "Week 15",
+            "location": "Home",
+            "opponent": "BAL"
+        },
+        {
+            "week": "Week 16",
+            "location": "Away",
+            "opponent": "@ATL"
+        },
+        {
+            "week": "Week 17",
+            "location": "Home",
+            "opponent": "IND"
+        },
+        {
+            "week": "Week 18",
+            "location": "Away",
+            "opponent": "@PHI"
+        }
+    ],
+    "NYJ": [
+        {
+            "week": "Week 1",
+            "location": "Away",
+            "opponent": "@SF"
+        },
+        {
+            "week": "Week 2",
+            "location": "Away",
+            "opponent": "@TEN"
+        },
+        {
+            "week": "Week 3",
+            "location": "Home",
+            "opponent": "NE"
+        },
+        {
+            "week": "Week 4",
+            "location": "Home",
+            "opponent": "DEN"
+        },
+        {
+            "week": "Week 5",
+            "location": "Away",
+            "opponent": "@MIN"
+        },
+        {
+            "week": "Week 6",
+            "location": "Home",
+            "opponent": "BUF"
+        },
+        {
+            "week": "Week 7",
+            "location": "Away",
+            "opponent": "@PIT"
+        },
+        {
+            "week": "Week 8",
+            "location": "Away",
+            "opponent": "@NE"
+        },
+        {
+            "week": "Week 9",
+            "location": "Home",
+            "opponent": "HOU"
+        },
+        {
+            "week": "Week 10",
+            "location": "Away",
+            "opponent": "@ARI"
+        },
+        {
+            "week": "Week 11",
+            "location": "Home",
+            "opponent": "IND"
+        },
+        {
+            "week": "Week 12",
+            "location": "Home",
+            "opponent": "BYE"
+        },
+        {
+            "week": "Week 13",
+            "location": "Home",
+            "opponent": "SEA"
+        },
+        {
+            "week": "Week 14",
+            "location": "Away",
+            "opponent": "@MIA"
+        },
+        {
+            "week": "Week 15",
+            "location": "Away",
+            "opponent": "@JAX"
+        },
+        {
+            "week": "Week 16",
+            "location": "Home",
+            "opponent": "LAR"
+        },
+        {
+            "week": "Week 17",
+            "location": "Away",
+            "opponent": "@BUF"
+        },
+        {
+            "week": "Week 18",
+            "location": "Home",
+            "opponent": "MIA"
+        }
+    ],
+    "PHI": [
+        {
+            "week": "Week 1",
+            "location": "Home",
+            "opponent": "GB"
+        },
+        {
+            "week": "Week 2",
+            "location": "Home",
+            "opponent": "ATL"
+        },
+        {
+            "week": "Week 3",
+            "location": "Away",
+            "opponent": "@NO"
+        },
+        {
+            "week": "Week 4",
+            "location": "Away",
+            "opponent": "@TB"
+        },
+        {
+            "week": "Week 5",
+            "location": "Home",
+            "opponent": "BYE"
+        },
+        {
+            "week": "Week 6",
+            "location": "Home",
+            "opponent": "CLE"
+        },
+        {
+            "week": "Week 7",
+            "location": "Away",
+            "opponent": "@NYG"
+        },
+        {
+            "week": "Week 8",
+            "location": "Away",
+            "opponent": "@CIN"
+        },
+        {
+            "week": "Week 9",
+            "location": "Home",
+            "opponent": "JAX"
+        },
+        {
+            "week": "Week 10",
+            "location": "Away",
+            "opponent": "@DAL"
+        },
+        {
+            "week": "Week 11",
+            "location": "Home",
+            "opponent": "WSH"
+        },
+        {
+            "week": "Week 12",
+            "location": "Away",
+            "opponent": "@LAR"
+        },
+        {
+            "week": "Week 13",
+            "location": "Away",
+            "opponent": "@BAL"
+        },
+        {
+            "week": "Week 14",
+            "location": "Home",
+            "opponent": "CAR"
+        },
+        {
+            "week": "Week 15",
+            "location": "Home",
+            "opponent": "PIT"
+        },
+        {
+            "week": "Week 16",
+            "location": "Away",
+            "opponent": "@WSH"
+        },
+        {
+            "week": "Week 17",
+            "location": "Home",
+            "opponent": "DAL"
+        },
+        {
+            "week": "Week 18",
+            "location": "Home",
+            "opponent": "NYG"
+        }
+    ],
+    "PIT": [
+        {
+            "week": "Week 1",
+            "location": "Away",
+            "opponent": "@ATL"
+        },
+        {
+            "week": "Week 2",
+            "location": "Away",
+            "opponent": "@DEN"
+        },
+        {
+            "week": "Week 3",
+            "location": "Home",
+            "opponent": "LAC"
+        },
+        {
+            "week": "Week 4",
+            "location": "Away",
+            "opponent": "@IND"
+        },
+        {
+            "week": "Week 5",
+            "location": "Home",
+            "opponent": "DAL"
+        },
+        {
+            "week": "Week 6",
+            "location": "Away",
+            "opponent": "@LV"
+        },
+        {
+            "week": "Week 7",
+            "location": "Home",
+            "opponent": "NYJ"
+        },
+        {
+            "week": "Week 8",
+            "location": "Home",
+            "opponent": "NYG"
+        },
+        {
+            "week": "Week 9",
+            "location": "Home",
+            "opponent": "BYE"
+        },
+        {
+            "week": "Week 10",
+            "location": "Away",
+            "opponent": "@WSH"
+        },
+        {
+            "week": "Week 11",
+            "location": "Home",
+            "opponent": "BAL"
+        },
+        {
+            "week": "Week 12",
+            "location": "Away",
+            "opponent": "@CLE"
+        },
+        {
+            "week": "Week 13",
+            "location": "Away",
+            "opponent": "@CIN"
+        },
+        {
+            "week": "Week 14",
+            "location": "Home",
+            "opponent": "CLE"
+        },
+        {
+            "week": "Week 15",
+            "location": "Away",
+            "opponent": "@PHI"
+        },
+        {
+            "week": "Week 16",
+            "location": "Away",
+            "opponent": "@BAL"
+        },
+        {
+            "week": "Week 17",
+            "location": "Home",
+            "opponent": "KC"
+        },
+        {
+            "week": "Week 18",
+            "location": "Home",
+            "opponent": "CIN"
+        }
+    ],
+    "SF": [
+        {
+            "week": "Week 1",
+            "location": "Home",
+            "opponent": "NYJ"
+        },
+        {
+            "week": "Week 2",
+            "location": "Away",
+            "opponent": "@MIN"
+        },
+        {
+            "week": "Week 3",
+            "location": "Away",
+            "opponent": "@LAR"
+        },
+        {
+            "week": "Week 4",
+            "location": "Home",
+            "opponent": "NE"
+        },
+        {
+            "week": "Week 5",
+            "location": "Home",
+            "opponent": "ARI"
+        },
+        {
+            "week": "Week 6",
+            "location": "Away",
+            "opponent": "@SEA"
+        },
+        {
+            "week": "Week 7",
+            "location": "Home",
+            "opponent": "KC"
+        },
+        {
+            "week": "Week 8",
+            "location": "Home",
+            "opponent": "DAL"
+        },
+        {
+            "week": "Week 9",
+            "location": "Home",
+            "opponent": "BYE"
+        },
+        {
+            "week": "Week 10",
+            "location": "Away",
+            "opponent": "@TB"
+        },
+        {
+            "week": "Week 11",
+            "location": "Home",
+            "opponent": "SEA"
+        },
+        {
+            "week": "Week 12",
+            "location": "Away",
+            "opponent": "@GB"
+        },
+        {
+            "week": "Week 13",
+            "location": "Away",
+            "opponent": "@BUF"
+        },
+        {
+            "week": "Week 14",
+            "location": "Home",
+            "opponent": "CHI"
+        },
+        {
+            "week": "Week 15",
+            "location": "Home",
+            "opponent": "LAR"
+        },
+        {
+            "week": "Week 16",
+            "location": "Away",
+            "opponent": "@MIA"
+        },
+        {
+            "week": "Week 17",
+            "location": "Home",
+            "opponent": "DET"
+        },
+        {
+            "week": "Week 18",
+            "location": "Away",
+            "opponent": "@ARI"
+        }
+    ],
+    "SEA": [
+        {
+            "week": "Week 1",
+            "location": "Home",
+            "opponent": "DEN"
+        },
+        {
+            "week": "Week 2",
+            "location": "Away",
+            "opponent": "@NE"
+        },
+        {
+            "week": "Week 3",
+            "location": "Home",
+            "opponent": "MIA"
+        },
+        {
+            "week": "Week 4",
+            "location": "Away",
+            "opponent": "@DET"
+        },
+        {
+            "week": "Week 5",
+            "location": "Home",
+            "opponent": "NYG"
+        },
+        {
+            "week": "Week 6",
+            "location": "Home",
+            "opponent": "SF"
+        },
+        {
+            "week": "Week 7",
+            "location": "Away",
+            "opponent": "@ATL"
+        },
+        {
+            "week": "Week 8",
+            "location": "Home",
+            "opponent": "BUF"
+        },
+        {
+            "week": "Week 9",
+            "location": "Home",
+            "opponent": "LAR"
+        },
+        {
+            "week": "Week 10",
+            "location": "Home",
+            "opponent": "BYE"
+        },
+        {
+            "week": "Week 11",
+            "location": "Away",
+            "opponent": "@SF"
+        },
+        {
+            "week": "Week 12",
+            "location": "Home",
+            "opponent": "ARI"
+        },
+        {
+            "week": "Week 13",
+            "location": "Away",
+            "opponent": "@NYJ"
+        },
+        {
+            "week": "Week 14",
+            "location": "Away",
+            "opponent": "@ARI"
+        },
+        {
+            "week": "Week 15",
+            "location": "Home",
+            "opponent": "GB"
+        },
+        {
+            "week": "Week 16",
+            "location": "Home",
+            "opponent": "MIN"
+        },
+        {
+            "week": "Week 17",
+            "location": "Away",
+            "opponent": "@CHI"
+        },
+        {
+            "week": "Week 18",
+            "location": "Away",
+            "opponent": "@LAR"
+        }
+    ],
+    "TB": [
+        {
+            "week": "Week 1",
+            "location": "Home",
+            "opponent": "WSH"
+        },
+        {
+            "week": "Week 2",
+            "location": "Away",
+            "opponent": "@DET"
+        },
+        {
+            "week": "Week 3",
+            "location": "Home",
+            "opponent": "DEN"
+        },
+        {
+            "week": "Week 4",
+            "location": "Home",
+            "opponent": "PHI"
+        },
+        {
+            "week": "Week 5",
+            "location": "Away",
+            "opponent": "@ATL"
+        },
+        {
+            "week": "Week 6",
+            "location": "Away",
+            "opponent": "@NO"
+        },
+        {
+            "week": "Week 7",
+            "location": "Home",
+            "opponent": "BAL"
+        },
+        {
+            "week": "Week 8",
+            "location": "Home",
+            "opponent": "ATL"
+        },
+        {
+            "week": "Week 9",
+            "location": "Away",
+            "opponent": "@KC"
+        },
+        {
+            "week": "Week 10",
+            "location": "Home",
+            "opponent": "SF"
+        },
+        {
+            "week": "Week 11",
+            "location": "Home",
+            "opponent": "BYE"
+        },
+        {
+            "week": "Week 12",
+            "location": "Away",
+            "opponent": "@NYG"
+        },
+        {
+            "week": "Week 13",
+            "location": "Away",
+            "opponent": "@CAR"
+        },
+        {
+            "week": "Week 14",
+            "location": "Home",
+            "opponent": "LV"
+        },
+        {
+            "week": "Week 15",
+            "location": "Away",
+            "opponent": "@LAC"
+        },
+        {
+            "week": "Week 16",
+            "location": "Away",
+            "opponent": "@DAL"
+        },
+        {
+            "week": "Week 17",
+            "location": "Home",
+            "opponent": "CAR"
+        },
+        {
+            "week": "Week 18",
+            "location": "Home",
+            "opponent": "NO"
+        }
+    ],
+    "TEN": [
+        {
+            "week": "Week 1",
+            "location": "Away",
+            "opponent": "@CHI"
+        },
+        {
+            "week": "Week 2",
+            "location": "Home",
+            "opponent": "NYJ"
+        },
+        {
+            "week": "Week 3",
+            "location": "Home",
+            "opponent": "GB"
+        },
+        {
+            "week": "Week 4",
+            "location": "Away",
+            "opponent": "@MIA"
+        },
+        {
+            "week": "Week 5",
+            "location": "Home",
+            "opponent": "BYE"
+        },
+        {
+            "week": "Week 6",
+            "location": "Home",
+            "opponent": "IND"
+        },
+        {
+            "week": "Week 7",
+            "location": "Away",
+            "opponent": "@BUF"
+        },
+        {
+            "week": "Week 8",
+            "location": "Away",
+            "opponent": "@DET"
+        },
+        {
+            "week": "Week 9",
+            "location": "Home",
+            "opponent": "NE"
+        },
+        {
+            "week": "Week 10",
+            "location": "Away",
+            "opponent": "@LAC"
+        },
+        {
+            "week": "Week 11",
+            "location": "Home",
+            "opponent": "MIN"
+        },
+        {
+            "week": "Week 12",
+            "location": "Away",
+            "opponent": "@HOU"
+        },
+        {
+            "week": "Week 13",
+            "location": "Away",
+            "opponent": "@WSH"
+        },
+        {
+            "week": "Week 14",
+            "location": "Home",
+            "opponent": "JAX"
+        },
+        {
+            "week": "Week 15",
+            "location": "Home",
+            "opponent": "CIN"
+        },
+        {
+            "week": "Week 16",
+            "location": "Away",
+            "opponent": "@IND"
+        },
+        {
+            "week": "Week 17",
+            "location": "Away",
+            "opponent": "@JAX"
+        },
+        {
+            "week": "Week 18",
+            "location": "Home",
+            "opponent": "HOU"
+        }
+    ],
+    "WSH": [
+        {
+            "week": "Week 1",
+            "location": "Away",
+            "opponent": "@TB"
+        },
+        {
+            "week": "Week 2",
+            "location": "Home",
+            "opponent": "NYG"
+        },
+        {
+            "week": "Week 3",
+            "location": "Away",
+            "opponent": "@CIN"
+        },
+        {
+            "week": "Week 4",
+            "location": "Away",
+            "opponent": "@ARI"
+        },
+        {
+            "week": "Week 5",
+            "location": "Home",
+            "opponent": "CLE"
+        },
+        {
+            "week": "Week 6",
+            "location": "Away",
+            "opponent": "@BAL"
+        },
+        {
+            "week": "Week 7",
+            "location": "Home",
+            "opponent": "CAR"
+        },
+        {
+            "week": "Week 8",
+            "location": "Home",
+            "opponent": "CHI"
+        },
+        {
+            "week": "Week 9",
+            "location": "Away",
+            "opponent": "@NYG"
+        },
+        {
+            "week": "Week 10",
+            "location": "Home",
+            "opponent": "PIT"
+        },
+        {
+            "week": "Week 11",
+            "location": "Away",
+            "opponent": "@PHI"
+        },
+        {
+            "week": "Week 12",
+            "location": "Home",
+            "opponent": "DAL"
+        },
+        {
+            "week": "Week 13",
+            "location": "Home",
+            "opponent": "TEN"
+        },
+        {
+            "week": "Week 14",
+            "location": "Home",
+            "opponent": "BYE"
+        },
+        {
+            "week": "Week 15",
+            "location": "Away",
+            "opponent": "@NO"
+        },
+        {
+            "week": "Week 16",
+            "location": "Home",
+            "opponent": "PHI"
+        },
+        {
+            "week": "Week 17",
+            "location": "Home",
+            "opponent": "ATL"
+        },
+        {
+            "week": "Week 18",
+            "location": "Away",
+            "opponent": "@DAL"
+        }
+    ]
+}

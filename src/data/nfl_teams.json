@@ -1,0 +1,162 @@
+[
+    {
+      "abbreviation": "ARI",
+      "name": "Arizona Cardinals",
+      "logo": "https://content.sportslogos.net/logos/7/177/full/arizona_cardinals_logo_primary_20058304.png"
+    },
+    {
+      "abbreviation": "ATL",
+      "name": "Atlanta Falcons",
+      "logo": "https://content.sportslogos.net/logos/7/173/full/299.png"
+    },
+    {
+      "abbreviation": "BAL",
+      "name": "Baltimore Ravens",
+      "logo": "https://content.sportslogos.net/logos/7/153/full/baltimore_ravens_logo_primary_19996038.png"
+    },
+    {
+      "abbreviation": "BUF",
+      "name": "Buffalo Bills",
+      "logo": "https://content.sportslogos.net/logos/7/149/full/n0fd1z6xmhigb0eej3323ebwq.png"
+    },
+    {
+      "abbreviation": "CAR",
+      "name": "Carolina Panthers",
+      "logo": "https://content.sportslogos.net/logos/7/174/full/f1wggq2k8ql88fe33jzhw641u.png"
+    },
+    {
+      "abbreviation": "CHI",
+      "name": "Chicago Bears",
+      "logo": "https://content.sportslogos.net/logos/7/169/full/chicago_bears_logo_primary_2023_sportslogosnet-7594.png"
+    },
+    {
+      "abbreviation": "CIN",
+      "name": "Cincinnati Bengals",
+      "logo": "https://content.sportslogos.net/logos/7/154/full/cincinnati_bengals_logo_primary_2021_sportslogosnet-2049.png"
+    },
+    {
+      "abbreviation": "CLE",
+      "name": "Cleveland Browns",
+      "logo": "https://content.sportslogos.net/logos/7/155/full/cleveland_browns_logo_primary_2024_sportslogosnet-6696.png"
+    },
+    {
+      "abbreviation": "DAL",
+      "name": "Dallas Cowboys",
+      "logo": "https://content.sportslogos.net/logos/7/165/full/406.png"
+    },
+    {
+      "abbreviation": "DEN",
+      "name": "Denver Broncos",
+      "logo": "https://content.sportslogos.net/logos/7/161/full/denver_broncos_logo_primary_19973076.png"
+    },
+    {
+      "abbreviation": "DET",
+      "name": "Detroit Lions",
+      "logo": "https://content.sportslogos.net/logos/7/170/full/detroit_lions_logo_primary_20172565.png"
+    },
+    {
+      "abbreviation": "GB",
+      "name": "Green Bay Packers",
+      "logo": "https://content.sportslogos.net/logos/7/171/full/dcy03myfhffbki5d7il3.png"
+    },
+    {
+      "abbreviation": "HOU",
+      "name": "Houston Texans",
+      "logo": "https://content.sportslogos.net/logos/7/157/full/houston_texans_logo_primary_2024_sportslogosnet-5890.png"
+    },
+    {
+      "abbreviation": "IND",
+      "name": "Indianapolis Colts",
+      "logo": "https://content.sportslogos.net/logos/7/158/full/indianapolis_colts_logo_primary_20043652.png"
+    },
+    {
+      "abbreviation": "JAX",
+      "name": "Jacksonville Jaguars",
+      "logo": "https://content.sportslogos.net/logos/7/159/full/jacksonville_jaguars_logo_primary_20132171.png"
+    },
+    {
+      "abbreviation": "KC",
+      "name": "Kansas City Chiefs",
+      "logo": "https://content.sportslogos.net/logos/7/162/full/857.png"
+    },
+    {
+      "abbreviation": "LV",
+      "name": "Las Vegas Raiders",
+      "logo": "https://content.sportslogos.net/logos/7/6708/full/8521_las_vegas_raiders-primary-20201.png"
+    },
+    {
+      "abbreviation": "LAC",
+      "name": "Los Angeles Chargers",
+      "logo": "https://content.sportslogos.net/logos/7/6446/full/1660_los_angeles__chargers-primary-20201.png"
+    },
+    {
+      "abbreviation": "LAR",
+      "name": "Los Angeles Rams",
+      "logo": "https://content.sportslogos.net/logos/7/5941/full/8334_los_angeles_rams-primary-20201.png"
+    },
+    {
+      "abbreviation": "MIA",
+      "name": "Miami Dolphins",
+      "logo": "https://content.sportslogos.net/logos/7/150/full/7306_miami_dolphins-primary-2018.png"
+    },
+    {
+      "abbreviation": "MIN",
+      "name": "Minnesota Vikings",
+      "logo": "https://content.sportslogos.net/logos/7/172/full/2704_minnesota_vikings-primary-20131.png"
+    },
+    {
+      "abbreviation": "NE",
+      "name": "New England Patriots",
+      "logo": "https://content.sportslogos.net/logos/7/151/full/new_england_patriots_logo_primary_20005480.png"
+    },
+    {
+      "abbreviation": "NO",
+      "name": "New Orleans Saints",
+      "logo": "https://content.sportslogos.net/logos/7/175/full/907.png"
+    },
+    {
+      "abbreviation": "NYG",
+      "name": "New York Giants",
+      "logo": "https://content.sportslogos.net/logos/7/166/full/new_york_giants_logo_primary_20005208.png"
+    },
+    {
+      "abbreviation": "NYJ",
+      "name": "New York Jets",
+      "logo": "https://content.sportslogos.net/logos/7/152/full/new_york_jets_logo_primary_2024_sportslogosnet-7417.png"
+    },
+    {
+      "abbreviation": "PHI",
+      "name": "Philadelphia Eagles",
+      "logo": "https://content.sportslogos.net/logos/7/167/full/philadelphia_eagles_logo_primary_19964867.png"
+    },
+    {
+      "abbreviation": "PIT",
+      "name": "Pittsburgh Steelers",
+      "logo": "https://content.sportslogos.net/logos/7/156/full/970.png"
+    },
+    {
+      "abbreviation": "SF",
+      "name": "San Francisco 49ers",
+      "logo": "https://content.sportslogos.net/logos/7/179/full/9455_san_francisco_49ers-primary-2009.png"
+    },
+    {
+      "abbreviation": "SEA",
+      "name": "Seattle Seahawks",
+      "logo": "https://content.sportslogos.net/logos/7/180/full/pfiobtreaq7j0pzvadktsc6jv.png"
+    },
+    {
+      "abbreviation": "TB",
+      "name": "Tampa Bay Buccaneers",
+      "logo": "https://content.sportslogos.net/logos/7/176/full/8363_tampa_bay_buccaneers-primary-2020.png"
+    },
+    {
+      "abbreviation": "TEN",
+      "name": "Tennessee Titans",
+      "logo": "https://content.sportslogos.net/logos/7/160/full/1053.png"
+    },
+    {
+      "abbreviation": "WSH",
+      "name": "Washington Commanders",
+      "logo": "https://content.sportslogos.net/logos/7/6832/full/washington_commanders_logo_primary_20228587.png"
+    }
+  ]
